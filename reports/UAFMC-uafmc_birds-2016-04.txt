@@ -1,0 +1,101 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 166
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 74
+	Country: Unknown ; Times: 1
+	Country: Montenegro ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 13
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-13 ; Times: 53
+	Date: 2016-04-22 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-03 ; Times: 1
+	Date: 2016-04-14 ; Times: 15
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 3
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-18 ; Times: 4
+	Date: 2016-04-09 ; Times: 3
+	Date: 2016-04-17 ; Times: 3
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "passenger pigeon" ; Times: 3
+	Query: "specificepithet:melodia genus:Melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Phalaropus lobatus Ontario" ; Times: 10
+	Query: "Chordeiles minor Ontario" ; Times: 10
+	Query: "Bachman warbler" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila)" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "elf" ; Times: 20
+	Query: "Ixobrychus exilis Ontario" ; Times: 10
+	Query: "phoebastria albatrus" ; Times: 3
+	Query: "Dolichonyx oryzivorus Ontario" ; Times: 10
+	Query: "Dolichonyx oryzivorus ONTARIO 1" ; Times: 2
+	Query: "Hirundo rustica  Ontario" ; Times: 10
+	Query: "Charadrius melodus Ontario" ; Times: 10
+	Query: "specificepithet:melodia genus:melospiza stateprovince:&#34;north carolina&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Dolichonyx oryzivorus Ontario 1" ; Times: 1
+	Query: "birds from Turkey" ; Times: 1
+	Query: "C 0119" ; Times: 1
+	Query: "Contopus virens Ontario" ; Times: 10
+	Query: "Agelaius phoeniceus California San Bernardino County egg" ; Times: 2
+	Query: "birds from Europe" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1312 download events in this period)
+Total number of records downloaded: 124
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Minnesota Point" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Erie&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "type:specimen specificepithet:castanea genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Pileated Woodpecker" ; Times: 2
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "type:specimen specificepithet:tigrina genus:Dendroica month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+
+
+End of report.
