@@ -1,0 +1,100 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 359
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 30
+	Country: Australia ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Portugal ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 5
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-14 ; Times: 7
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-07 ; Times: 2
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aalge genus:Uria class:aves continent:Europe preparations:egg" ; Times: 1
+	Query: "magnolia warbler egg" ; Times: 1
+	Query: "egg vancouver 1918" ; Times: 1
+	Query: "egg gowland" ; Times: 1
+	Query: "UAFMC" ; Times: 3
+	Query: "egg texas 1900" ; Times: 1
+	Query: "egg siberia" ; Times: 1
+	Query: "1903 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "egg washington 1919" ; Times: 1
+	Query: "egg 1920 ca" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "egg 1924 england" ; Times: 1
+	Query: "XT" ; Times: 1
+	Query: "(&#34;Oak Titmouse&#34; or &#34;Baeolophus inornatus&#34;)" ; Times: 1
+	Query: "Oceanodroma homochroa egg" ; Times: 2
+	Query: "egg 1904 florida" ; Times: 1
+	Query: "Smith AND Catalina" ; Times: 2
+	Query: "egg 1904 florida carter" ; Times: 1
+	Query: "Bird pix" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND San Clemente Island" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Ready AND Island" ; Times: 2
+	Query: "Fulica americana AND California AND Island" ; Times: 3
+	Query: "egg 1909 alberta" ; Times: 1
+	Query: "egg 1919 florida" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1052 download events in this period)
+Total number of records downloaded: 262
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-05 ; Times: 2
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "magnolia warbler" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
