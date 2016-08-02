@@ -1,0 +1,135 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 196
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-26 ; Times: 2
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-06 ; Times: 1
+	Date: 2016-07-21 ; Times: 3
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-16 ; Times: 5
+	Date: 2016-07-18 ; Times: 17
+	Date: 2016-07-08 ; Times: 1
+	Date: 2016-07-28 ; Times: 6
+	Date: 2016-07-13 ; Times: 4
+	Date: 2016-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:mexicanus genus:himantopus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:aves county:&#34;napa&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 1
+	Query: "canadensis sex:male institutioncode:UAFMC" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:e.c. AND (NOT wfvz)" ; Times: 1
+	Query: "catalognumber:1280 institutioncode:UAFMC" ; Times: 1
+	Query: "type:specimen specificepithet:maculariUS genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "catalognumber:1301 institutioncode:UAFMC" ; Times: 1
+	Query: "tufted puffin" ; Times: 2
+	Query: "catalognumber:1331 institutioncode:UAFMC" ; Times: 1
+	Query: "type:specimen specificepithet:acuta genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Colinus virginianus 1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1916 year &lt;= 1916" ; Times: 1
+	Query: "catalognumber:1332 institutioncode:UAFMC" ; Times: 1
+	Query: "class:Aves county:&#34;nevada&#34; stateprovince:&#34;california&#34; (egg)" ; Times: 1
+	Query: "american crow egg" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "2bf0ebd2-cf6a-412b-b3eb-81d07106c946" ; Times: 1
+	Query: "canadensis institutioncode:UAFMC" ; Times: 1
+	Query: "Coturnix japonica 1" ; Times: 1
+	Query: "type:specimen specificepithet:macularius genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;california&#34; preparations:egg year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "egg 1900 connecticut" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:e.c. AND (NOT wfvz NOT ypm NOT mvz) institutioncode:UAFMC" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:e.c. institutioncode:UAFMC" ; Times: 1
+	Query: "class:Aves county:&#34;nevada&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 1
+	Query: "catalognumber:1230 institutioncode:UAFMC" ; Times: 1
+	Query: "catalognumber:1444 institutioncode:UAFMC" ; Times: 1
+	Query: "Cygnus olor 1" ; Times: 1
+	Query: "catalognumber:1305 institutioncode:UAFMC" ; Times: 1
+	Query: "Melopsittacus undulatus 1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 1
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "egg handsaker" ; Times: 1
+	Query: "class:aves county:&#34;Napa&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 1
+	Query: "class:aves county:&#34;nevada&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:e.c. AND (NOT wfvz NOT ypm NOT mvz)" ; Times: 1
+	Query: "aves dutchess year &gt;= 1900 year &lt;= 1920" ; Times: 2
+	Query: "catalognumber:1320 institutioncode:UAFMC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1219 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 2
+	Date: 2016-07-25 ; Times: 1
+	Date: 2016-07-27 ; Times: 2
+	Date: 2016-07-20 ; Times: 4
+	Date: 2016-07-22 ; Times: 3
+	Date: 2016-07-17 ; Times: 2
+	Date: 2016-07-23 ; Times: 3
+	Date: 2016-07-16 ; Times: 3
+	Date: 2016-07-28 ; Times: 6
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-07 ; Times: 1
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-24 ; Times: 2
+	Date: 2016-07-14 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "type:specimen specificepithet:maculariUS genus:actitis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Casuarius" ; Times: 1
+	Query: "class:aves county:&#34;nevada&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 3
+	Query: "type:specimen specificepithet:cyaneus genus:circus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:acuta genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen genus:Dendroica country:&#34;Canada&#34; month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "type:specimen specificepithet:exilis genus:ixobrychus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "type:specimen specificepithet:exilis class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT zoo NOT captive)" ; Times: 2
+	Query: "type:specimen specificepithet:vociferus genus:charadrius class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "genus:Casuarius" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:chlidonias stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "type:specimen specificepithet:hirundo genus:sterna stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "class:aves county:&#34;napa&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 1
+	Query: "type:specimen specificepithet:brachyrhynchos genus:corvus class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "type:specimen specificepithet:lineatus genus:buteo class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "aves dutchess" ; Times: 1
+	Query: "&#34;Anser albifrons&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ruticilla genus:setophaga class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "catharus guttatus" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:circus stateprovince:&#34;michigan&#34; AND (NOT audio)" ; Times: 1
+	Query: "type:specimen genus:Setophaga country:&#34;Canada&#34; month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "motacilla" ; Times: 1
+	Query: "type:specimen specificepithet:rubripes genus:anas class:aves stateprovince:&#34;michigan&#34; AND (NOT audio NOT blb)" ; Times: 1
+	Query: "class:aves county:&#34;Napa&#34; stateprovince:&#34;california&#34; (egg OR nest)" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
