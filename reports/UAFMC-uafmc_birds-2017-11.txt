@@ -1,0 +1,57 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 10
+	Country: India ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 7
+	Date: 2017-11-29 ; Times: 2
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-25 ; Times: 2
+	Date: 2017-11-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "White-eyed Vireo sex:male" ; Times: 3
+	Query: "albatrus" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 1
+	Query: "Falcated duck" ; Times: 2
+	Query: "yellow-throated vireo sex:male" ; Times: 2
+	Query: "egg greenland" ; Times: 2
+	Query: "Red-eyed Vireo sex:male" ; Times: 2
+	Query: "Warbling Vireo sex:male" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "family:Aepyornithidae" ; Times: 1
+	Query: "Haliaeetus albicilla egg" ; Times: 1
+	Query: "Falcated Duck" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "Blue-headed Vireo sex:male" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1101 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "greenland aves" ; Times: 1
+
+
+End of report.
