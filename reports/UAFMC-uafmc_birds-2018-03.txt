@@ -1,0 +1,112 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 187
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 52
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-16 ; Times: 10
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 3
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-08 ; Times: 3
+	Date: 2018-03-09 ; Times: 6
+	Date: 2018-03-27 ; Times: 8
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-26 ; Times: 9
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 2
+	Query: "specificepithet:virescens genus:Butorides hastissue:1" ; Times: 1
+	Query: "Aves institutioncode:UAFMC hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 2
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "elf" ; Times: 4
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "class:Aves country:&#34;Spain&#34; institutioncode:UAFMC" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 2
+	Query: "aepyornis" ; Times: 9
+	Query: "passenger pigeon" ; Times: 5
+	Query: "mallard wings" ; Times: 2
+	Query: "family:Cathartidae (fluid OR alcohol OR ethanol)" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 3
+	Query: "passenger pigeon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "isreal" ; Times: 1
+	Query: "specificepithet:podiceps genus:Podilymbus hastissue:1" ; Times: 2
+	Query: "genus:Struthio specificepithet:camelus" ; Times: 2
+	Query: "CALIFORINA" ; Times: 1
+	Query: "American Bald Eagle" ; Times: 1
+	Query: "genus:Aepyornis basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1284 download events in this period)
+Total number of records downloaded: 262
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 12
+	Country: Israel ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-02 ; Times: 4
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus olor" ; Times: 1
+	Query: "painted bunting" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "Egretta rufescens" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "Grus americana" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Aves institutioncode:UAFMC hassex:1 hasmass:1" ; Times: 1
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "family:Cathartidae (fluid OR alcohol OR ethanol)" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis hasmass:1" ; Times: 1
+	Query: "scientificname:&#34;Cyanocitta cristata&#34; hassex:1 hasmass:1" ; Times: 1
+	Query: "Alder Flycatcher" ; Times: 1
+
+
+End of report.
