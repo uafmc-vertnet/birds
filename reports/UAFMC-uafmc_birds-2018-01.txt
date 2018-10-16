@@ -1,0 +1,124 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 179
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Australia ; Times: 2
+	Country: India ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Mexico ; Times: 34
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-15 ; Times: 10
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-16 ; Times: 24
+	Date: 2018-01-23 ; Times: 3
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passenger Pigeon" ; Times: 4
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Setophaga discolor" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Handsaker" ; Times: 2
+	Query: "Ortalis vetula" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Ixobrychus exilis minnesota egg" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Tyrannus forficatus" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 2
+	Query: "genus:Coragyps hastissue:1" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "passenger pigeon egg" ; Times: 1
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "oak titmouse" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "Eudocimus  albus" ; Times: 1
+	Query: "Tyrannus couchii" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Picoides borealis" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "dilophus" ; Times: 2
+	Query: "Limnothlypis swainsonii" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Fregata magnificens" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Buteogallus anthracinus" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1398 download events in this period)
+Total number of records downloaded: 1275
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 2
+	Date: 2018-01-25 ; Times: 6
+	Date: 2018-01-26 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza year &gt;= 1901 year &lt;= 1904 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "northern mockingbird vntype:specimen" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Dryocopus pileatus hassex:1" ; Times: 1
+	Query: "specificepithet:polyglottos genus:mimus hasmass:1" ; Times: 1
+	Query: "Turdus migratorius vntype:specimen hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "American Badger" ; Times: 2
+	Query: "caracara cheriway" ; Times: 1
+	Query: "Buteo swainsoni nest" ; Times: 1
+	Query: "genus:Coragyps hastissue:1" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "Empidonax hammondii" ; Times: 1
+	Query: "class:Aves preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Melanerpes carolinus" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Turdus migratorius hassex:1 hasmass:1" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+
+
+End of report.
