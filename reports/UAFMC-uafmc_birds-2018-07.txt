@@ -1,0 +1,101 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 44
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 10
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-19 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-27 ; Times: 7
+	Date: 2018-07-24 ; Times: 8
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "egg arctic coast" ; Times: 1
+	Query: "Iowa marshall county allen" ; Times: 1
+	Query: "Tinamus major" ; Times: 2
+	Query: "egg genus:Spheniscus" ; Times: 2
+	Query: "semipalmata florida" ; Times: 1
+	Query: "Laurence E. Allen" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "wilson Buteo lineatus" ; Times: 1
+	Query: "Iowa Marshall county" ; Times: 2
+	Query: "egg auklet alaska" ; Times: 1
+	Query: "bald eagle egg" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 2
+	Query: "Rhynchotus rufescens" ; Times: 2
+	Query: "Iowa marshall county albion" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 2
+	Query: "laurence allen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 977 download events in this period)
+Total number of records downloaded: 345
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-17 ; Times: 5
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-06 ; Times: 3
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "specificepithet:nitens genus:Phainopepla" ; Times: 1
+	Query: "specificepithet:curvirostre genus:Toxostoma" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis order:Passeriformes" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo order:Passeriformes" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "specificepithet:flaviceps genus:Auriparus" ; Times: 1
+	Query: "vntype:specimen genus:amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Barred owl" ; Times: 1
+	Query: "specificepithet:bilineata genus:Amphispiza" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "Carduelis pinus" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Aimophila aestivalis" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 1
+	Query: "Poecile gambeli" ; Times: 1
+	Query: "Regulus calendula" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus family:Troglodytidae order:Passeriformes" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+
+
+End of report.
