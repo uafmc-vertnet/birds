@@ -1,0 +1,104 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 136
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-22 ; Times: 6
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:colubris (eggs)" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "university of arkansas coyote" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "class:Aves recordedby:Carless" ; Times: 2
+	Query: "genus:Psaltriparus year &gt;= 1903 year &lt;= 1903" ; Times: 1
+	Query: "specificepithet:grammacus genus:Chondestes year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:charadrius county:&#34;orange&#34; catalognumber:2010-0005-0060" ; Times: 1
+	Query: "genus:Psaltriparus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 2
+	Query: "genus:charadrius county:&#34;orange&#34; catalognumber:0035-0003-0198" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1416 download events in this period)
+Total number of records downloaded: 184
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Bulgaria ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 10
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "great tailed grackle" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "specificepithet:alexandrinus genus:charadrius county:&#34;orange&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+
+
+End of report.
