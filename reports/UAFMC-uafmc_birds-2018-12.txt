@@ -1,0 +1,91 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 28
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Peru ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 3
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-14 ; Times: 1
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-17 ; Times: 2
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Tyto catalognumber:0043" ; Times: 1
+	Query: "Iceland Gull" ; Times: 1
+	Query: "agelaius mississippi egg" ; Times: 1
+	Query: "specificepithet:ustulatus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 3
+	Query: "year &lt;= 1823 institutioncode:UAFMC" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 1
+	Query: "blue-headed vireo hastissue:1" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 2
+	Query: "great frigatebird" ; Times: 1
+	Query: "Evening Grosbeak hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 809 download events in this period)
+Total number of records downloaded: 266
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: India ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-20 ; Times: 7
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-12 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "curve-billed thrasher" ; Times: 1
+	Query: "Surnia ulula" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "verdin" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Apodiformes (skeleton)" ; Times: 1
+	Query: "black throated sparrow" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "(&#34;cactus wren&#34; OR &#34;Campylorhynchus brunneicapillus&#34;)" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 8 month &lt;= 9" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "cactus wren" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "(&#34;curve-billed thrasher&#34; OR &#34;Toxostoma curvirostre&#34;)" ; Times: 1
+	Query: "(&#34;verdin&#34; OR &#34;Auriparus flaviceps&#34;)" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+
+
+End of report.
