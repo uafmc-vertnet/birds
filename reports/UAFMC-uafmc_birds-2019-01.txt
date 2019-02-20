@@ -1,0 +1,97 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 84
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 13
+	Country: Slovakia ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Thyromanes bewickii" ; Times: 1
+	Query: "&#34;S. B. Peyton&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "locality:trinidad island country:&#34;mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "&#34;S. B. Peyton&#34; AND &#34;Island&#34; NOT &#34;Alaska&#34;" ; Times: 1
+	Query: "genus:Crotophaga preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "apteryx owenii" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "owenii" ; Times: 1
+	Query: "crissalis egg Alameda County" ; Times: 1
+	Query: "eastern screech owl hastissue:1" ; Times: 1
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "savannah cardinalis egg" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile hastissue:1" ; Times: 1
+	Query: "melospiza melodia riverside county egg" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 962 download events in this period)
+Total number of records downloaded: 93
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-15 ; Times: 3
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Hylocharis xantusii" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+	Query: "Asio flammeus" ; Times: 1
+	Query: "vntype:specimen family:trochilidae preparations:alcohol" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "rosy finch" ; Times: 1
+
+
+End of report.
