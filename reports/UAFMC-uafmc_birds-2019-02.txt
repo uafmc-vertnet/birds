@@ -1,0 +1,119 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 1810
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Cuba ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 40
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 6
+	Date: 2019-02-27 ; Times: 2
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 19
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "REDWOOD TREE" ; Times: 5
+	Query: "rhynchops niger" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "uafmc" ; Times: 18
+	Query: "specificepithet:platypterus genus:Buteo class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "terns" ; Times: 1
+	Query: "Ardea OR Casmerodius OR Egretta AND alba OR albus AND massing" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "passenger pigeon" ; Times: 3
+	Query: "rattle snake" ; Times: 1
+	Query: "uafmc fish" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &gt;= 1885 year &lt;= 1955" ; Times: 1
+	Query: "25 june 1886" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Setophaga americana AND massing" ; Times: 1
+	Query: "indigo snake" ; Times: 1
+	Query: "red bellied woodpecker" ; Times: 2
+	Query: "passenger pigeon vntype:specimen" ; Times: 2
+	Query: "yellow-billed cuckoo hastissue:1" ; Times: 1
+	Query: "wings barn owl" ; Times: 1
+	Query: "Cygnus AND olor AND massing" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "rhynchotus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1227 download events in this period)
+Total number of records downloaded: 135
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: United States ; Times: 9
+	Country: Israel ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 4
+	Date: 2019-02-05 ; Times: 8
+	Date: 2019-02-13 ; Times: 1
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-18 ; Times: 1
+	Date: 2019-02-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Parula OR Dendroica OR Setophaga AND americana AND massing" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "Mniotilta AND varia AND massing" ; Times: 1
+	Query: "Vermivora OR Leiothlypis OR Oreothlypis AND celata AND massing" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "Ardea OR Casmerodius OR Egretta AND alba OR albus AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND pensylvanica AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "Willsonia OR Cardellina AND pusilla AND massing" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "Anser OR Chen AND caerulescens AND massing" ; Times: 1
+	Query: "Dendroica OR Setophaga AND coronata OR auduboni AND massing" ; Times: 1
+	Query: "Buteo AND jamaicensis AND massing" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Cygnus AND columbianus AND massing" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+	Query: "Cygnus AND olor AND massing" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Eastern screech owl hastissue:1" ; Times: 1
+	Query: "Ardea AND herodias AND massing" ; Times: 1
+	Query: "Parula americana AND massing" ; Times: 1
+
+
+End of report.
