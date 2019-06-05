@@ -1,0 +1,91 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 49
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-30 ; Times: 4
+	Date: 2019-05-23 ; Times: 8
+	Date: 2019-05-22 ; Times: 12
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "beach mice" ; Times: 1
+	Query: "sphenicus demersus" ; Times: 1
+	Query: "egg franklin bay" ; Times: 3
+	Query: "Florida scrub-jay" ; Times: 14
+	Query: "Piping plover" ; Times: 6
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1939" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "Ayrshire tringa egg" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza stateprovince:&#34;Alberta&#34;" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "elf" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 940 download events in this period)
+Total number of records downloaded: 135
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 2
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 2
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-31 ; Times: 8
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-10 ; Times: 2
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:gambelii genus:Callipepla" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "sphenicus demersus" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen genus:Ectopistes" ; Times: 1
+	Query: "selasphorus calliope" ; Times: 1
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1911 year &lt;= 1920" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1881 year &lt;= 1890" ; Times: 1
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Vireo bellii" ; Times: 1
+
+
+End of report.
