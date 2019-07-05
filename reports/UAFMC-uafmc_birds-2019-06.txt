@@ -1,0 +1,139 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 330
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 38
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 5
+	Date: 2019-06-21 ; Times: 4
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-18 ; Times: 2
+	Date: 2019-06-08 ; Times: 1
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-14 ; Times: 2
+	Date: 2019-06-04 ; Times: 6
+	Date: 2019-06-16 ; Times: 1
+	Date: 2019-06-11 ; Times: 12
+	Date: 2019-06-10 ; Times: 8
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 1
+	Query: "specificepithet:virens genus:Contopus class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "red-winged black bird" ; Times: 2
+	Query: "egg arkansas 1923 H.E. Wheeler" ; Times: 1
+	Query: "ground hog" ; Times: 3
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "vulture skeleton" ; Times: 1
+	Query: "black-throated hummingbird" ; Times: 1
+	Query: "genus:Aethia specificepithet:pusilla" ; Times: 1
+	Query: "Antrostomus vociferus" ; Times: 1
+	Query: "genus:Toxostoma specificepithet:longirostre" ; Times: 1
+	Query: "genus:Nyctanassa specificepithet:violacea" ; Times: 1
+	Query: "locality:Steilacoom Lake stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Fregata specificepithet:magnificens" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Coronados AND 1886" ; Times: 1
+	Query: "genus:Oceanodroma specificepithet:furcata" ; Times: 1
+	Query: "genus:Aeronautes specificepithet:saxatalis" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "tar creek class:Aves country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1910" ; Times: 1
+	Query: "institutioncode:uafmc" ; Times: 2
+	Query: "genus:Cettia specificepithet:diphone" ; Times: 1
+	Query: "specificepithet:lentiginosus genus:botaurus year &gt;= 1925 year &lt;= 1925" ; Times: 1
+	Query: "genus:Micrathene specificepithet:whitneyi" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "vntype:specimen specificepithet:celata genus:Oreothlypis hastissue:1" ; Times: 1
+	Query: "slamon" ; Times: 1
+	Query: "genus:Rhea specificepithet:americana" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 2
+	Query: "(orange-crowned warbler) hastissue:1" ; Times: 1
+	Query: "locality:American Lake stateprovince:&#34;Washington&#34;" ; Times: 2
+	Query: "specificepithet:minor genus:Chordeiles class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lentiginosus genus:botaurus collectioncode:Birds year &gt;= 1925 year &lt;= 1925" ; Times: 1
+	Query: "Extinct birds" ; Times: 2
+	Query: "Robins egg" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "genus:Parabuteo specificepithet:unicinctus" ; Times: 1
+	Query: "specificepithet:rubripes genus:Anas class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "orange crowned warbler hastissue:1" ; Times: 3
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "class:Aves locality:Mission Bay county:&#34;San Diego&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1182 download events in this period)
+Total number of records downloaded: 431
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 8
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 18
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 6
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "corn snake" ; Times: 2
+	Query: "western screech owl" ; Times: 1
+	Query: "snowy owl" ; Times: 1
+	Query: "bob cat" ; Times: 1
+	Query: "barn owl" ; Times: 1
+	Query: "ground hog" ; Times: 1
+	Query: "Opossum" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "geese" ; Times: 1
+	Query: "raccoon continent:north america" ; Times: 1
+	Query: "Bald Eagle" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "red fox" ; Times: 1
+	Query: "avis" ; Times: 1
+	Query: "bald eagle north america" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Cedar Waxwing" ; Times: 1
+	Query: "elf owl" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "ruby throated hummingbird" ; Times: 2
+	Query: "veery" ; Times: 1
+	Query: "bald eagle" ; Times: 7
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "Barn Owl" ; Times: 1
+	Query: "black bear" ; Times: 2
+	Query: "Yellow bellied sapsucker" ; Times: 1
+	Query: "White crowned Sparrow" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina" ; Times: 1
+	Query: "genus:Accipiter year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "ruby-throated hummingbird" ; Times: 2
+	Query: "class:Aves locality:Mission Bay county:&#34;San Diego&#34;" ; Times: 1
+
+
+End of report.
