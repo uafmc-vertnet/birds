@@ -1,0 +1,99 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 199
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: Madagascar ; Times: 1
+	Country: Nepal ; Times: 3
+	Country: France ; Times: 2
+	Country: United States ; Times: 17
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 8
+	Date: 2019-07-08 ; Times: 4
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-31 ; Times: 5
+	Date: 2019-07-05 ; Times: 2
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-30 ; Times: 3
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-07 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-15 ; Times: 3
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sternula specificepithet:antillarum" ; Times: 1
+	Query: "genus:Porphyrio specificepithet:martinica" ; Times: 1
+	Query: "Pelecanus occidentalis south carolina" ; Times: 1
+	Query: "asturina nitida" ; Times: 1
+	Query: "MARK HAZEL" ; Times: 1
+	Query: "genus:Ictinia specificepithet:mississippiensis" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "orange-crowned warbler hastissue:1" ; Times: 5
+	Query: "vntype:specimen specificepithet:carolinus genus:Melanerpes preparations:skeleton basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Georgia&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "gbifdatasetid:2bf0ebd2-cf6a-412b-b3eb-81d07106c946 procellariiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus stateprovince:&#34;Missouri&#34; year &gt;= 1900 year &lt;= 2019 month &gt;= 4 month &lt;= 7" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:hiemalis genus:Troglodytes country:&#34;canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "oreothlypis celata hastissue:1" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 3
+	Query: "leucosticte AND eggs" ; Times: 1
+	Query: "vireo marshall" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "Oceanodroma socorroensis" ; Times: 1
+	Query: "specificepithet:brunneicapillus genus:Campylorhynchus year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "gbifdatasetid:2bf0ebd2-cf6a-412b-b3eb-81d07106c946" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 985 download events in this period)
+Total number of records downloaded: 60
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-10 ; Times: 3
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-31 ; Times: 2
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "porzana carolina" ; Times: 1
+	Query: "specificepithet:hiemalis genus:Troglodytes country:&#34;canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Branta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Porzana carolina" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:striatus genus:Accipiter year &gt;= 1970" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 2
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+
+
+End of report.
