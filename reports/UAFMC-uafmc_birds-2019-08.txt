@@ -1,0 +1,145 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 416
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Italy ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 73
+	Country: Peru ; Times: 16
+	Country: Denmark ; Times: 10
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-19 ; Times: 8
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-03 ; Times: 5
+	Date: 2019-08-16 ; Times: 7
+	Date: 2019-08-15 ; Times: 25
+	Date: 2019-08-14 ; Times: 16
+	Date: 2019-08-13 ; Times: 6
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 6
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-30 ; Times: 13
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Alcidae (Coronados Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Eudromia elegans" ; Times: 1
+	Query: "Coronado family:Alcidae AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "mark hazel" ; Times: 1
+	Query: "Mycteria americana" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 8
+	Query: "genus:synthliboramphus family:Alcidae locality:coronado country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Los Coronado) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "family:Alcidae locality:Coronado country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 4
+	Query: "Porphyrio martinica" ; Times: 4
+	Query: "oceanodroma socorroensis" ; Times: 1
+	Query: "megascops asio institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "egg vntype:specimen specificepithet:trichas genus:geothlypis institutioncode:UAFMC" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Protonotaria citrea vntype:specimen (Egg)" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Coccyzus americanus occidentalis" ; Times: 2
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "Antrostomus carolinensis" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 11
+	Query: "Gallus gallus haslength:1" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Protonotaria citrea vntype:specimen institutioncode:UAFMC" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Los Coronado and Los Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Pterodroma inexpectata" ; Times: 1
+	Query: "Vireo bellii" ; Times: 6
+	Query: "egg nebraska" ; Times: 1
+	Query: "Cursorius cursor" ; Times: 3
+	Query: "Rhynchotus rufescens" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 1
+	Query: "specificepithet:demersus genus:Spheniscus" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Coronado Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 13
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:falco year &gt;= 1910 year &lt;= 1915" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 1
+	Query: "Protonotaria citrea vntype:specimen (Eggs) institutioncode:UAFMC" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 3
+	Query: "Tinamus major" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1034 download events in this period)
+Total number of records downloaded: 84
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Thryomanes bewickii vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "megascops asio institutioncode:UAFMC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hydrobates pelagicus" ; Times: 1
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "oceanodroma socorroensis" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; year &gt;= 1902 year &lt;= 1902" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "Cursorius cursor" ; Times: 1
+	Query: "Mountain Quail" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+
+
+End of report.
