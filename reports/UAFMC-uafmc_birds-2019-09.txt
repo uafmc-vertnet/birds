@@ -1,0 +1,91 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 95
+Number of records retrieved in searches: 581
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 90
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-06 ; Times: 59
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Aphelocoma coerulescens" ; Times: 12
+	Query: "morse egg Carlsbad" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "Zenaida asiatica egg new mexico" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "peregrin falcon" ; Times: 1
+	Query: "Aphelocoma californica San Diego County Escondido" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops institutioncode:UAFMC" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "family:Thraupidae preparations:egg" ; Times: 1
+	Query: "cavity nesting birds" ; Times: 1
+	Query: "morse egg Carlsbad 1922" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "duck wings" ; Times: 2
+	Query: "country:&#34;canada&#34; recordedby:beasley" ; Times: 3
+	Query: "thyromanes bewickii" ; Times: 2
+	Query: "institutioncode:UAFMC" ; Times: 1
+	Query: "Antrostomus hastissue:1" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 7
+	Query: "Vireo belli" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 12
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1073 download events in this period)
+Total number of records downloaded: 84
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "black-throated blue warbler" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops institutioncode:UAFMC" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
