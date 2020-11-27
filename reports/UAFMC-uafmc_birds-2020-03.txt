@@ -1,0 +1,82 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 4
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-08 ; Times: 2
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Accipiter cooperi" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 5
+	Query: "Spatula clypeata" ; Times: 1
+	Query: "japanese bush warbler" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Arkansas&#34; (cerulea) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Basilinna xantusii" ; Times: 1
+	Query: "&#34;dendroica cerulea&#34; vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "county:&#34;refugio&#34; stateprovince:&#34;texas&#34; recordedby:carroll" ; Times: 1
+	Query: "vntype:specimen (cerulea) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Greater Prairie Chicken Egg" ; Times: 1
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "mexico 1923 Brown Bird" ; Times: 1
+	Query: "&#34;setophaga cerulea&#34; vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 853 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "dickcissel" ; Times: 1
+	Query: "specificepithet:tricolor genus:Agelaius stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Passerina stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Baeolophus stateprovince:&#34;Texas&#34; year &lt;= 1950" ; Times: 1
+	Query: "elanus leucurus" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina" ; Times: 2
+	Query: "specificepithet:cyanea genus:Passerina" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "american alligator" ; Times: 1
+	Query: "northern flicker" ; Times: 1
+
+
+End of report.
