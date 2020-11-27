@@ -1,0 +1,141 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 216
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 47
+	Country: Unknown ; Times: 16
+	Country: Brazil ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 21
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 11
+	Date: 2019-10-16 ; Times: 7
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-31 ; Times: 7
+	Date: 2019-10-17 ; Times: 5
+	Date: 2019-10-23 ; Times: 10
+	Date: 2019-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 1
+	Query: "Charadrius melodus 2000" ; Times: 1
+	Query: "Coccyzus americanus 1976" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad and 1930" ; Times: 1
+	Query: "specificepithet:opisthomelas genus:Puffinus preparations:egg" ; Times: 1
+	Query: "Poecile atricapillus oregon benton County" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 1
+	Query: "Aphelocoma coerulescens 2015" ; Times: 1
+	Query: "Vireo bellii pusillus 2000" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:UAFMC" ; Times: 2
+	Query: "genus:Thryomanes stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Eremophila alpestris egg Manitoba. Churchill" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "elf" ; Times: 3
+	Query: "Coccyzus americanus 1993" ; Times: 1
+	Query: "Coccyzus americanus 1990" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "Phoebastria albatrus AND Island" ; Times: 1
+	Query: "Poecile carolinensis travis texas" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Mycteria americana 2015" ; Times: 1
+	Query: "kiwi" ; Times: 1
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "Tulsa egg Lanius ludovicianus" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Charadrius melodus 2015" ; Times: 1
+	Query: "Aphelocoma coerulescens 2000" ; Times: 1
+	Query: "Eremophila alpestris egg alberta" ; Times: 1
+	Query: "class:Aves locality:Banning county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Vireo bellii pusillus 2015" ; Times: 1
+	Query: "Vireo bellii pusillus 2016" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "setophaga pennsylvanica" ; Times: 2
+	Query: "Coccyzus americanus 1982" ; Times: 1
+	Query: "Poecile gambeli Colorado Boulder" ; Times: 1
+	Query: "Synthliboramphus craveri continent:North America" ; Times: 3
+	Query: "Coccyzus americanus 1989" ; Times: 1
+	Query: "Coccyzus americanus 1988" ; Times: 1
+	Query: "cerulea basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Coccyzus americanus 2013" ; Times: 1
+	Query: "Coccyzus americanus 2010" ; Times: 1
+	Query: "Coccyzus americanus 2011" ; Times: 1
+	Query: "Mycteria americana 2000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1308 download events in this period)
+Total number of records downloaded: 214
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 24
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-13 ; Times: 3
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 5
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-05 ; Times: 3
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "genus:Thryomanes year &lt;= 1960 hastissue:1" ; Times: 2
+	Query: "stercorariidae" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "genus:Thryomanes stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Ectopistes" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Ammodramus nelsoni" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "specificepithet:bewickii genus:Thryomanes hastissue:1" ; Times: 2
+	Query: "Setophaga virens" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "class:Aves locality:Banning county:&#34;Riverside&#34;" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
