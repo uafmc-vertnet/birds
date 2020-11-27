@@ -1,0 +1,87 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 67
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-26 ; Times: 6
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-04 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:UAFMC" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "vntype:specimen class:aves county:&#34;clackamas&#34; stateprovince:&#34;oregon&#34; country:&#34;United States&#34; recordedby:alex walker" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex. walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "ARCHILOCHUS ALEXANDRI year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 1
+	Query: "class:aves recordedby:ritson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:alex walker year &gt;= 1911 year &lt;= 1913" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Alex Walker (egg)" ; Times: 1
+	Query: "atlantic puffin" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:UAFMC" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:UAFMC" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;washington&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "american egret" ; Times: 1
+	Query: "Vultures" ; Times: 1
+	Query: "passenger pigeon" ; Times: 5
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:UAFMC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1023 download events in this period)
+Total number of records downloaded: 258
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 2
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "bushtit" ; Times: 1
+	Query: "family:apodidae (alcohol OR alc OR ethanol OR ETOH)" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+
+
+End of report.
