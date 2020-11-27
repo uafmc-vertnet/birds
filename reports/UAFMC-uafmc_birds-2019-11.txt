@@ -1,0 +1,128 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 271
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 117
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 2
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 4
+	Date: 2019-11-08 ; Times: 16
+	Date: 2019-11-09 ; Times: 19
+	Date: 2019-11-06 ; Times: 5
+	Date: 2019-11-07 ; Times: 35
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-16 ; Times: 23
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-13 ; Times: 4
+	Date: 2019-11-12 ; Times: 6
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tufts nova scotia egg" ; Times: 1
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "Mycteria americana 2000" ; Times: 4
+	Query: "Charadrius melodus 2000" ; Times: 4
+	Query: "Coccyzus americanus 1976" ; Times: 4
+	Query: "Tufts canada egg" ; Times: 2
+	Query: "Coccyzus americanus 2005" ; Times: 4
+	Query: "passenger pigeon" ; Times: 4
+	Query: "Aphelocoma coerulescens 2016" ; Times: 4
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "Vireo bellii pusillus 2000" ; Times: 3
+	Query: "bushtit egg" ; Times: 4
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "genus:cistothorus hastissue:1" ; Times: 1
+	Query: "class:aves recordedby:beasley" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Coccyzus americanus 1993" ; Times: 4
+	Query: "Coccyzus americanus 1990" ; Times: 4
+	Query: "Sharp-tailed grouse" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "Mycteria americana 2015" ; Times: 4
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "whooping crane" ; Times: 2
+	Query: "white-breasted nuthatch hastissue:1" ; Times: 3
+	Query: "yellow rail" ; Times: 1
+	Query: "Piping plover" ; Times: 4
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "Charadrius melodus 2015" ; Times: 4
+	Query: "Aphelocoma coerulescens 2000" ; Times: 6
+	Query: "institutioncode:ccber OR chas genus:bubo" ; Times: 1
+	Query: "Vireo bellii pusillus 2015" ; Times: 3
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "aves howard egg 1900" ; Times: 1
+	Query: "SHARPTAILED SPARROW" ; Times: 2
+	Query: "Coccyzus americanus 1982" ; Times: 4
+	Query: "Coccyzus americanus 1989" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "Coccyzus americanus 2015" ; Times: 2
+	Query: "little blue heron iowa" ; Times: 1
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "Coccyzus americanus 2011" ; Times: 4
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "aves howard 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1367 download events in this period)
+Total number of records downloaded: 196
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 1
+	Date: 2019-11-06 ; Times: 1
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "passenger pigeon" ; Times: 2
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "saltmarsh sparrow" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bushtit eggs" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "whooping crane" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "swamp sparrow" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "SHARP-TAILED SPARROW" ; Times: 1
+
+
+End of report.
