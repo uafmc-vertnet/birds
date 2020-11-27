@@ -1,0 +1,98 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 67
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 4
+	Date: 2020-05-01 ; Times: 8
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-07 ; Times: 3
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-05 ; Times: 4
+	Date: 2020-05-04 ; Times: 3
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "baker 1894 aves" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 3
+	Query: "American Kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "rolph suffolk" ; Times: 1
+	Query: "Junco hyemalis Banff nest" ; Times: 1
+	Query: "Quiscalus quiscala" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "passenger pigeon" ; Times: 1
+	Query: "Strix varia ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Black-vented shearwater" ; Times: 1
+	Query: "Tachycineta bicolor ws OR wingspan OR wing+span" ; Times: 7
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "alligator mississippiensis arkansas" ; Times: 1
+	Query: "Junco hyemalis Banff egg" ; Times: 1
+	Query: "Junco hyemalis Placer County egg" ; Times: 1
+	Query: "Rollo Beck San Jose" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "egg rolph" ; Times: 1
+	Query: "baker egg 1894" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1106 download events in this period)
+Total number of records downloaded: 384
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thryomanes class:Aves hastissue:1" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Rollo Beck" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "american kestrel year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Aquila chrysaetos Texas" ; Times: 1
+	Query: "egg texas" ; Times: 1
+
+
+End of report.
