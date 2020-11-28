@@ -1,0 +1,82 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 9
+	Country: United Kingdom ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 14
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ardea alba hasmass:1" ; Times: 1
+	Query: "Cathartes aura hasmass:1" ; Times: 1
+	Query: "Sialia sialis hasmass:1" ; Times: 1
+	Query: "&#34;H. A. Edwards&#34;" ; Times: 1
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "Buteo lineatus hasmass:1" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "Pelecanus erythrorhynchos mass OR weight" ; Times: 2
+	Query: "Bobolink nest" ; Times: 2
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Meadowlark nest" ; Times: 2
+	Query: "Tachycineta bicolor mass OR weight" ; Times: 2
+	Query: "Phalacrocorax penicillatus mass OR weight" ; Times: 2
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 1
+	Query: "Muscovy Duck" ; Times: 1
+	Query: "Pandion haliaetus mass OR weight" ; Times: 2
+	Query: "(Red-winged blackbird) hastissue:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 474 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 7
+	Date: 2020-06-03 ; Times: 5
+	Date: 2020-06-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "elf owl" ; Times: 3
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "scrub jay" ; Times: 2
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo county:&#34;san diego&#34;" ; Times: 1
+	Query: "american alligator" ; Times: 2
+	Query: "california scrub jay" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "american beaver" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+
+
+End of report.
