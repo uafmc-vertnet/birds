@@ -1,0 +1,70 @@
+Report for Institution Code UAFMC, Resource uafmc_birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-20 ; Times: 6
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chipping sparrow nest and eggs" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "Mark hazel" ; Times: 6
+	Query: "elf" ; Times: 3
+	Query: "locality:Dinkey county:&#34;Fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "Worm-eating warbler vntype:specimen" ; Times: 2
+	Query: "peafowl" ; Times: 3
+	Query: "zabele" ; Times: 1
+	Query: "Cardellina egg" ; Times: 1
+	Query: "gavia AND (&#34;alc&#34; OR &#34;alcohol&#34;)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 940 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "alauda arvensis" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+
+
+End of report.
